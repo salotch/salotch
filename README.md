@@ -3,16 +3,17 @@
 <br clear="both">
 <br clear="both">
 
-<br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/salotch/count.svg?"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkzcWJjZWxicGp3NWJjYTRlMW9id3QzajJ0am85cm1la2toOXhhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRxaDZ2Z3ZidHo3azFjNDR2eHZ6c3lkZGtrN3FhOWs3eG5vb3doMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+</div>
 
+###
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 
