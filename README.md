@@ -24,8 +24,6 @@
 
 - 📫 How to reach me **salma.a.samei@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PTmCOBo2VUsejAxSnkHXwd6ye1Di9caH/view](https://drive.google.com/file/d/1PTmCOBo2VUsejAxSnkHXwd6ye1Di9caH/view)
-
 - ⚡ Fun fact **I aspire to become a farmer one day, even though I currently study software engineering**
 
 <h3 align="left">Connect with me:</h3>
