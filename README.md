@@ -18,9 +18,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-- 🌱 I’m currently learning **React, Django**
-
-- 👨‍💻 All of my projects are available at [https://salotch.github.io/Portfolio/](https://salotch.github.io/Portfolio/)
+- 🌱 I’m currently learning **React, Nodejs, DevOps**
 
 - 📫 How to reach me **salma.a.samei@gmail.com**
 
